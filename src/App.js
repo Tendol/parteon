@@ -4,13 +4,14 @@ import Login from './components/Login';
 import Logout from './components/Logout';
 import Home from './components/Home';
 import Info from './components/Info';
+import Trial from './components/Trial';
 
 import log from './login-page.png';
 
 import { FormGroup, Input } from "reactstrap";
 
 function App() {
-  const [status, setStatus] = useState("logout")
+  const [status, setStatus] = useState("login")
   if (status == "logout") {
     return (
       <div className="App">
@@ -38,11 +39,10 @@ function App() {
               className="Password"
             />
           </FormGroup>
-          <button className="SignUp-button"> Sign Up</button>
+          <button className="SignUp-button" > Sign Up</button>
   
           <div className="Google-login">
             <Login status={log => setStatus(log)}/>
-            {console.log("status: ", status)}
           </div>
       </div>
     );
@@ -50,7 +50,7 @@ function App() {
   else{
     return(
       <div>
-        <Home/>
+        <Trial/>
         <div className="Google-logout">
           <Logout  status={log=>setStatus(log)}/>
           {console.log("status: ", status)}
