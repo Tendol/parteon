@@ -1,0 +1,64 @@
+
+.New-celebration {
+    position: absolute;
+    width: 632px;
+    height: 133px;
+    left: 50%;
+    top: 63px;
+
+
+    background: #B6244F;
+    border-radius: 30px;
+
+    font-family: Fredoka One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 38px;
+    line-height: 46px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Calendar {
+    position: absolute;
+    width: 579px;
+    height: 133px;
+    left: 153px;
+    top: 288px;
+
+    background: #B6244F;
+    border-radius: 30px;
+
+    font-family: Fredoka One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 38px;
+    line-height: 46px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Past-celebration {
+    position: absolute;
+    width: 448px;
+    height: 133px;
+    left: 50%;
+    top: 529px;
+
+    background: #B6244F;
+    border-radius: 30px;
+    font-family: Fredoka One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 38px;
+    line-height: 46px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+

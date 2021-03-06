@@ -1,0 +1,130 @@
+
+
+.Log-img {
+  position: absolute;
+  left: 114px;
+  top: 100px;
+}
+
+.SignUp {
+  position: absolute;
+  width: 264px;
+  height: 78px;
+  left: 714px;
+  top: 86px;
+  
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 49px;
+  display: flex;
+  align-items: center;
+  
+  color: #2A2E45;
+  
+}
+
+.Sub-SignUp {
+  position: absolute;
+  width: 264px;
+  height: 78px;
+  left: 714px;
+  top: 136px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-size: 30px;
+  line-height: 35.22px;
+  display: flex;
+  align-items: center;
+
+  color: #2A2E45;
+}
+
+.Name {
+  position: absolute;
+  width: 362px;
+  height: 37px;
+  left: 714px;
+  top: 311px;
+  border-style:none;
+  border-bottom: 1px solid black;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+}
+
+.Email {
+  position: absolute;
+  width: 362px;
+  height: 37px;
+  left: 714px;
+  top: 380px;
+
+  /* BODY */
+  border-style:none;
+  border-bottom: 1px solid black;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.Password {
+  position: absolute;
+  width: 362px;
+  height: 37px;
+  left: 714px;
+  top: 447px;
+
+  /* BODY */
+  border-style:none;
+  border-bottom: 1px solid black;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.SignUp-button {
+
+  position: absolute;
+  width: 214px;
+  height: 41px;
+  left: 780px;
+  top: 533px;
+
+  background: #B6244F;
+  border-radius: 10px;
+  font-size: 25px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  text-align: center;
+  align-items: center;
+  color: #fff;
+}
+
+.Google-login {
+  position: absolute;
+  left: 780px;
+  top: 600px;
+}

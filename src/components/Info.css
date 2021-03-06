@@ -1,0 +1,210 @@
+
+.Info-title-box {
+    position: absolute;
+    width: 512px;
+    height: 76px;
+    left: 386px;
+    top: 70px;
+    
+    background: #B6244F;
+    border-radius: 10px;
+
+    font-family: Fredoka One;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+}
+
+.Question-1 {
+    /* What are your hobbies? */
+
+    position: absolute;
+    width: 450px;
+    height: 99px;
+    left: 237px;
+    top: 163px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+
+}
+
+.Answer-1 {
+    /* Type your answer */
+
+    position: absolute;
+    width: 383px;
+    height: 32px;
+    left: 237px;
+    top: 250px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+    background: #B6244F;
+    border-radius: 10px;
+}
+
+.Question-2 {
+    position: absolute;
+    width: 450px;
+    height: 99px;
+    left: 671px;
+    top: 163px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+
+}
+
+.Answer-2 {
+    position: absolute;
+    width: 383px;
+    height: 32px;
+    left: 670px;
+    top:  250px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+    background: #B6244F;
+    border-radius: 10px;
+
+}
+
+.Question-3 { 
+    position: absolute;
+    width: 450px;
+    height: 99px;
+    left: 237px;
+    top: 315px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+
+}
+
+.Answer-3 {
+    position: absolute;
+    width: 383px;
+    height: 32px;
+    left: 237px;
+    top: 405px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+    background: #B6244F;
+    border-radius: 10px;
+
+}
+
+.Question-4 { 
+    position: absolute;
+    width: 450px;
+    height: 99px;
+    left: 671px;
+    top: 315px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.Answer-4 {
+    position: absolute;
+    width: 383px;
+    height: 32px;
+    left: 670px;
+    top:  405px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+    background: #B6244F;
+    border-radius: 10px;
+
+}
+
+.Share-profile {
+    position: absolute;
+    width: 327px;
+    height: 86px;
+    left: 464px;
+    top: 496px;
+    
+    background: #B6244F;
+    border-radius: 5px;
+
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 43px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #FFFFFF;
+}
