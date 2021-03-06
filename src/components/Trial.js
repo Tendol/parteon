@@ -10,3 +10,10 @@ function Trial(){
 }
 
 export default Trial; 
+
+/**
+ * 
+ * git add .
+ * git commit -m "a note in here"
+ * git push origin trial 
+ */
