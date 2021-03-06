@@ -11,7 +11,6 @@ import { FormGroup, Input } from "reactstrap";
 
 function App() {
   const [status, setStatus] = useState("logout")
-
   if (status == "logout") {
     return (
       <div className="App">
@@ -28,10 +27,9 @@ function App() {
               placeholder="YOUR NAME"
               className="Name"
             />
-  
             <Input
               type="text"
-              placeholder="YOUR EMAIL "
+              placeholder="EMAIL"
               className="Email"
             />
             <Input
@@ -52,7 +50,7 @@ function App() {
   else{
     return(
       <div>
-        <Info/>
+        <Home/>
         <div className="Google-logout">
           <Logout  status={log=>setStatus(log)}/>
           {console.log("status: ", status)}
