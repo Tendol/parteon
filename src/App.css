@@ -2,8 +2,19 @@
 
 .Log-img {
   position: absolute;
-  left: 114px;
-  top: 100px;
+  width: 520px;
+  height: 538px;
+  left: 62px;
+  top: 86px;
+}
+
+.confetti {
+  position: absolute;
+  width: 70px;
+  height: 63px;
+  left: 872px;
+  top: 155px;
+
 }
 
 .SignUp {

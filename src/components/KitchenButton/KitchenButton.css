@@ -1,0 +1,22 @@
+.kitchen-button {
+  position: absolute;
+  width: 103px;
+  height: 31px;
+  left: 760px;
+  top: 589px;
+
+  background: #B6244F;
+  border: 1px solid #ffecec;
+  box-sizing: border-box;
+  border-radius: 3px;
+
+  font-family: Fredoka One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  display: flex;
+  justify-content:center;
+  color: #fff;
+}
+
+

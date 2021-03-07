@@ -1,0 +1,15 @@
+.lobby {
+    background-color: #4a4a4a;
+    background-image: url("../../img/lobby.png");
+    position: absolute;
+    height: 100%;
+    width: 100%;
+  }
+  
+.logo-img {
+  position: absolute;
+  width: 45px;
+  height: 57px;
+  left: 30px;
+  top: 21px;
+}

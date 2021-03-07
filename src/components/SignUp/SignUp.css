@@ -1,0 +1,168 @@
+
+
+.Log-img {
+    position: absolute;
+    width: 520px;
+    height: 538px;
+    left: 62px;
+    top: 86px;
+  }
+  
+  .confetti {
+    position: absolute;
+    width: 60px;
+    height: 53px;
+    left: 872px;
+    top: 106px;
+  
+  }
+  
+  .SignUp {
+    position: absolute;
+    width: 264px;
+    height: 78px;
+    left: 714px;
+    top: 45px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 49px;
+    display: flex;
+    align-items: center;
+    
+    color: #2A2E45;
+    
+  }
+  
+  .Sub-SignUp {
+    position: absolute;
+    width: 264px;
+    height: 78px;
+    left: 714px;
+    top: 96px;
+  
+    font-family: Raleway;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 35.22px;
+    display: flex;
+    align-items: center;
+  
+    color: #2A2E45;
+  }
+  
+  .Name {
+    position: absolute;
+    width: 362px;
+    height: 37px;
+    left: 714px;
+    top: 311px;
+    border-style:none;
+    border-bottom: 1px solid black;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+  
+    color: #000000;
+  
+  }
+  
+  .Email {
+    position: absolute;
+    width: 362px;
+    height: 37px;
+    left: 714px;
+    top: 380px;
+  
+    /* BODY */
+    border-style:none;
+    border-bottom: 1px solid black;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+  
+    color: #000000;
+  }
+  
+  .Password {
+    position: absolute;
+    width: 362px;
+    height: 37px;
+    left: 714px;
+    top: 447px;
+  
+    /* BODY */
+    border-style:none;
+    border-bottom: 1px solid black;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+  
+    color: #000000;
+  }
+  
+  .SignUp-button {
+  
+    position: absolute;
+    width: 214px;
+    height: 41px;
+    left: 780px;
+    top: 533px;
+  
+    background: #B6244F;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+  }
+  
+  .Google-login {
+    position: absolute;
+    left: 780px;
+    top: 600px;
+  }
+  
+  .Sign-in-here {
+    position: absolute;
+    width: 173px;
+    height: 81px;
+    left: 915px;
+    top: 83px;
+    
+    /* BODY */
+    
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    display: block;
+    align-items: center;
+    text-align: right;
+    
+    color: #000000;
+  }
+
+  .Error {
+    position: absolute;
+    left: 714px;
+    bottom: 170px;
+  }
