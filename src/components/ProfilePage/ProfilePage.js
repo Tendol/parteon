@@ -13,7 +13,7 @@ const ProfilePage = () => {
   const { displayName} = user;
   
   const [video, setVideo] = useState("false")
-  if(video == "true"){
+  if(video === "true"){
     return(
       <Lobby /> 
     )

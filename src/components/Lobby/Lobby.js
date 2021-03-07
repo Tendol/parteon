@@ -7,6 +7,7 @@ import CallObjectContext from '../../CallObjectContext';
 import { roomUrlFromPageUrl, pageUrlFromRoomUrl } from '../../urlUtils';
 import DailyIframe from '@daily-co/daily-js';
 import { logDailyEvent } from '../../logUtils';
+import { auth } from "../../Firebase";
 
 import LivingRoomButton from '../../components/LivingRoomButton/LivingRoomButton';
 import GameRoomButton from '../../components/GameRoomButton/GameRoomButton';
@@ -189,6 +190,7 @@ export default function Lobby() {
           }}
       /> }
       <Agenda />
+      <button className="sign-out" onClick = {() => {auth.signOut()}}>Sign out</button>
 
     </div>
   );
